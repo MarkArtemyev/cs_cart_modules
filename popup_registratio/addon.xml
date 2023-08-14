@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>popup_registration</id>
+    <version>1.0</version>
+    <priority>100</priority>
+    <position>1000</position>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <queries>
+        <!-- Database queries to be executed upon installation -->
+    </queries>
+    <settings edition_type="ROOT,ULTIMATE,VENDOR">
+        <!-- Module settings -->
+    </settings>
+    <compatibility>
+        <item>4.11.1</item>
+    </compatibility>
+    <name>
+        <item lang="en">Popup Registration</item>
+    </name>
+    <description>
+        <item lang="en">Adds a popup registration form on the storefront.</item>
+    </description>
+</addon>

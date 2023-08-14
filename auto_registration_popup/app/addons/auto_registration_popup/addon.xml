@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<addon scheme="3.0">
+    <name>Auto Registration Popup</name>
+    <version>1.0.0</version>
+    <description>Automatically shows a registration popup for unregistered users</description>
+    <author>Your name</author>
+</addon>

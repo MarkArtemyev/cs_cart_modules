@@ -1,0 +1,5 @@
+msgid "register_to_add_items_notification"
+msgstr "Please register to add items to the cart!"
+
+msgid "minimum_order_price_notification"
+msgstr "Minimum order price for non-registered users is %price%."
